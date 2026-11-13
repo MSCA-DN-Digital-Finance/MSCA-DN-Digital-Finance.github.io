@@ -8,7 +8,8 @@ import json
 from directory import ROOT, fetch_json, write_json
 
 FEEDS = [('Data_inventory', 'inventory.json', ['sources', 'datasets']),
-         ('Publications', 'research.json', ['publications', 'working_papers'])]
+         ('Publications', 'research.json', ['publications', 'working_papers']),
+         ('Open_Software', 'software.json', ['software'])]
 
 
 def collect(local=False, root=None):

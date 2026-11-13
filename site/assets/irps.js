@@ -24,14 +24,14 @@
     selected.forEach(row=>{
       if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(row.id))throw new Error('Invalid record ID');
       const item=document.createElement('li'),link=document.createElement('a');
-      const paths={sources:'/Data_inventory/#source/',datasets:'/Data_inventory/datasets.html#dataset/',publications:'/Publications/#publication/',working_papers:'/Publications/working-papers.html#working-paper/'};
+      const paths={sources:'/Data_inventory/#source/',datasets:'/Data_inventory/datasets.html#dataset/',publications:'/Publications/#publication/',working_papers:'/Publications/working-papers.html#working-paper/',software:'/Open_Software/#software/'};
       link.href=paths[kind]+row.id;link.textContent=row.title||row.name||row.dataset_name;item.append(link);
       if(row.year){const year=document.createElement('span');year.textContent=row.year;item.append(year);}
       list.append(item);
     });
     container.replaceChildren(list);
   }
-  const sources=[['/Data_inventory/data/inventory.json',['sources','datasets']],['/Publications/data/research.json',['publications','working_papers']]];
+  const sources=[['/Data_inventory/data/inventory.json',['sources','datasets']],['/Publications/data/research.json',['publications','working_papers']],['/Open_Software/data/software.json',['software']]];
   Promise.allSettled(sources.map(async([url,kinds])=>{
     const response=await fetch(url,{signal:AbortSignal.timeout(10000)});
     if(!response.ok)throw new Error('Catalogue unavailable');

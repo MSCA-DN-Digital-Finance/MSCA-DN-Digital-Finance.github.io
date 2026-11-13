@@ -116,7 +116,7 @@ class ProfileTests(unittest.TestCase):
                 target = parent / repo / '_site/data' / filename
                 target.parent.mkdir(parents=True)
                 target.write_text(json.dumps({kind: [] for kind in kinds}))
-            self.assertEqual(set(sync_catalogues.collect(True, root)), {'sources', 'datasets', 'publications', 'working_papers'})
+            self.assertEqual(set(sync_catalogues.collect(True, root)), {'sources', 'datasets', 'publications', 'working_papers', 'software'})
             (parent / 'Publications/_site/data/research.json').write_text('{"publications": "not records"}')
             with self.assertRaises(ValueError): sync_catalogues.collect(True, root)
 

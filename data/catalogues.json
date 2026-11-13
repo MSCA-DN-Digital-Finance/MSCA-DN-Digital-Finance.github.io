@@ -239,5 +239,13 @@
       "year": "2026"
     }
   ],
-  "working_papers": []
+  "working_papers": [],
+  "software": [
+    {
+      "id": "tsfm-causal-analysis",
+      "title": "TSFM causal analysis",
+      "irp_numbers": "1",
+      "year": ""
+    }
+  ]
 }

@@ -11,7 +11,8 @@ from directory import ROOT, load
 KINDS = [('sources', 'Data sources', '/Data_inventory/?irp='),
          ('datasets', 'Datasets', '/Data_inventory/datasets.html?irp='),
          ('publications', 'Publications & preprints', '/Publications/?irp='),
-         ('working_papers', 'Working papers', '/Publications/working-papers.html?irp=')]
+         ('working_papers', 'Working papers', '/Publications/working-papers.html?irp='),
+         ('software', 'Open Software', '/Open_Software/?irp=')]
 REPO = 'https://github.com/MSCA-DN-Digital-Finance/MSCA-DN-Digital-Finance.github.io'
 
 
@@ -42,6 +43,8 @@ def related_html(kind, records, number):
         if kind in {'sources', 'datasets'}:
             prefix = '/Data_inventory/' + ('datasets.html' if kind == 'datasets' else '')
             link = prefix + '#' + ('dataset' if kind == 'datasets' else 'source') + '/' + row['id']
+        elif kind == 'software':
+            link = '/Open_Software/#software/' + row['id']
         else:
             link = '/Publications/' + ('working-papers.html' if kind == 'working_papers' else '') + '#' + ('working-paper' if kind == 'working_papers' else 'publication') + '/' + row['id']
         items.append(f'<li><a href="{e(link)}">{e(title)}</a>{"<span>" + e(row.get("year")) + "</span>" if row.get("year") else ""}</li>')

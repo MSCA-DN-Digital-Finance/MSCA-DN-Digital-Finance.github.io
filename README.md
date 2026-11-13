@@ -12,6 +12,7 @@ The existing project repositories remain independent:
 - `/Publications/working-papers.html` — working papers and collaboration requests
 - `/irps/` — searchable directory of all 17 IRPs and 14 current doctoral candidates
 - `/irps/irp-14.html` — individual research profile (one page per IRP)
+- `/Open_Software/` — research software, linked papers, repositories, indexing and data availability
 
 The repositories share the DIGITAL and EU funding branding, navigation and the same candidate dictionary. Publication submissions and approvals are handled in Publications; data submissions in Data_inventory. Profiles show associated data sources, datasets, publications and working papers. They refresh from the published catalogue JSON feeds when opened, with a committed reference index as the fallback for unavailable feeds or JavaScript being disabled.
 
@@ -51,6 +52,6 @@ python3 scripts/sync_catalogues.py --local            # Or sibling repositories'
 python3 scripts/build_site.py
 ```
 
-The producer feeds are `/Data_inventory/data/inventory.json` and `/Publications/data/research.json`. `data/catalogues.json` stores only record IDs, titles, years and explicit IRP associations for fallback rendering. A source is linked to an IRP because that relationship is recorded in the catalogue, not because it might be relevant to the research theme.
+The producer feeds are `/Data_inventory/data/inventory.json`, `/Publications/data/research.json` and `/Open_Software/data/software.json`. `data/catalogues.json` stores only record IDs, titles, years and explicit IRP associations for fallback rendering. Each IRP page includes an Open Software section with links to its associated code. A source is linked to an IRP because that relationship is recorded in the catalogue, not because it might be relevant to the research theme.
 
 Enable **Settings → Pages → Source → GitHub Actions**. The workflow publishes pushes to `main` and manual runs; pull requests are built without deploying. No personal tokens or external runtime dependencies are needed.
