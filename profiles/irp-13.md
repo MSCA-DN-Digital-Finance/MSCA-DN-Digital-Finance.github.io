@@ -1,0 +1,1 @@
+Applies language analysis to financial risk and fraud assessment. The work examines reports, online discussion and survey responses, extracting sentiment and attitudes that can contribute to broader models of compliance and behavior.

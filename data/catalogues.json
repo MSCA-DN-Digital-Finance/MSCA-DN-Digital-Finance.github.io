@@ -1,0 +1,243 @@
+{
+  "sources": [
+    {
+      "id": "eurostat",
+      "title": "Eurostat",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "istat",
+      "title": "ISTAT",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "banca-d-italia",
+      "title": "Banca d'Italia",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "edw",
+      "title": "EDW",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "eia",
+      "title": "EIA",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "ferc",
+      "title": "FERC",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "nerc",
+      "title": "NERC",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "epa",
+      "title": "EPA",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "pudl",
+      "title": "PUDL",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "brc",
+      "title": "BRC",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "binance",
+      "title": "Binance",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "thegraph",
+      "title": "Thegraph",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "fred",
+      "title": "FRED",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "dune",
+      "title": "Dune",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "ecb-data-portal",
+      "title": "ECB Data Portal",
+      "irp_numbers": "15;13",
+      "year": ""
+    },
+    {
+      "id": "philadelphia-fed-rtdsm",
+      "title": "Philadelphia Fed RTDSM",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "philadelphia-fed-spf",
+      "title": "Philadelphia Fed SPF",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "fed-board-yield-curve",
+      "title": "Fed Board yield curve",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "kenneth-french-data-library",
+      "title": "Kenneth French Data Library",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "sec-bdc-data-sets",
+      "title": "SEC BDC Data Sets",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "sec-form-n-port-data-sets",
+      "title": "SEC Form N-PORT Data Sets",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "bloomberg-terminal",
+      "title": "Bloomberg Terminal",
+      "irp_numbers": "15;13",
+      "year": ""
+    }
+  ],
+  "datasets": [
+    {
+      "id": "eia-930",
+      "title": "EIA_930",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "eia-923",
+      "title": "EIA_923",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "bi-loan-origination",
+      "title": "BI_loan_origination",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "bi-bad-loans",
+      "title": "BI_bad_loans",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "bi-nace",
+      "title": "BI_nace",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "eia-outlook",
+      "title": "EIA_outlook",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "eia-capacity",
+      "title": "EIA_capacity",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "epa-cems",
+      "title": "EPA_CEMS",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "uniswap-hourly-metrics",
+      "title": "Uniswap_hourly_metrics",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "macro-realtime-data-layer",
+      "title": "Macro_realtime_data_layer",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "sec-bdc-loan-quarter-panel",
+      "title": "SEC_BDC_loan_quarter_panel",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "stablecoin-defi",
+      "title": "Stablecoin DeFi Dataset",
+      "irp_numbers": "14",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "id": "chaffard-2025-bitcoin-llm",
+      "title": "Enhancing large language models for bitcoin time series forecasting",
+      "irp_numbers": "14",
+      "year": "2025"
+    },
+    {
+      "id": "zenodo-24163413",
+      "title": "Hierarchy Aware Probabilistic Forecasting : Methodology and Application to Private Debt Market",
+      "irp_numbers": "14",
+      "year": "2025"
+    },
+    {
+      "id": "zenodo-24165580",
+      "title": "Finance professionals' demands on AI: beyond accuracy and explainability",
+      "irp_numbers": "9",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24165805",
+      "title": "Investigating explainable artificial intelligence in financial time series modeling",
+      "irp_numbers": "16",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24191656",
+      "title": "Identifiable Regime Detection in Pension-Fund Networks via Sticky Hidden Markov Models",
+      "irp_numbers": "11",
+      "year": "2026"
+    }
+  ],
+  "working_papers": []
+}

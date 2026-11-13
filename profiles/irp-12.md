@@ -1,0 +1,1 @@
+Develops automated trading approaches suitable for operational use in financial institutions. The research considers reliability, interpretation of learning models, responsible investment and the ethical implications of automated decisions.

@@ -1,0 +1,1 @@
+Examines how explanations of complex financial models should change with their audience. The research considers the gap between describing an algorithm and helping a particular user interpret its behavior. The source currently provides an abridged project description.

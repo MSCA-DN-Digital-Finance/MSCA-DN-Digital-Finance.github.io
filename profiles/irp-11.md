@@ -1,0 +1,1 @@
+Uses simulations of individual participants to study financial markets and sustainability over time. The work considers relationships among lenders, institutions, businesses and households, comparing outcomes such as borrowing costs, access to finance, emissions and profitability.

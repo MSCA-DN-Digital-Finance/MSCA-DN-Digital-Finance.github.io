@@ -1,0 +1,1 @@
+Develops investment recommendations that help institutions and customers identify more sustainable businesses and technologies. The work includes evaluating sustainability measures and adapting explanations to the needs of different users.

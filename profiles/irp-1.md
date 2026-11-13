@@ -1,0 +1,1 @@
+Explores how reinforcement learning can support practical financial decisions. The research considers risk, competing objectives and unusual market conditions alongside interpretability, regulatory requirements and human oversight. It also examines the infrastructure needed to deploy these methods in financial organizations.

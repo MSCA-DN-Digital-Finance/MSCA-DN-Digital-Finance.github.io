@@ -1,0 +1,1 @@
+The project addresses fairness in algorithm design and sustainability in portfolio optimization. A detailed research description has not yet been published in the source directory; the candidate can expand this summary as the work develops.

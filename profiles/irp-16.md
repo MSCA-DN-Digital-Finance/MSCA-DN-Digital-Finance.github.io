@@ -1,0 +1,1 @@
+Examines whether established explanation methods are useful for complex models that forecast financial time series. It considers the interpretability challenges introduced by more sophisticated learning methods. The source currently provides an abridged project description.

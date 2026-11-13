@@ -1,0 +1,1 @@
+Studies financial fraud through changing patterns of connections and behavior. The project considers learning systems that can adapt as fraudulent activity and the surrounding financial network evolve.

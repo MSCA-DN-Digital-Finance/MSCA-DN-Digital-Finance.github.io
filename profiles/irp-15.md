@@ -1,0 +1,1 @@
+The project focuses on deep generation of financial time series. A detailed research description has not yet been published in the source directory; the candidate can expand this summary as the work develops.

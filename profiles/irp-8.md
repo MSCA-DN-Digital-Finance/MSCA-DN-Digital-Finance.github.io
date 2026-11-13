@@ -1,0 +1,1 @@
+Studies unusual trading behavior and relationships in large collections of rapidly observed financial data. Research on sentiment and investor herding informs models of market volatility and joint movements.

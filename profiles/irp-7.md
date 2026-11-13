@@ -1,0 +1,1 @@
+Investigates extreme losses and shared risk across cryptocurrency markets. The aim is to construct an index that helps investors, regulators and the public understand how risks spread among crypto assets.

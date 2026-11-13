@@ -1,0 +1,1 @@
+Studies the adoption of financial technology in industry. The source highlights cash flows in institutional loan portfolios; the candidate also lists forecasting and machine learning among his research interests. The published project description is currently abridged.

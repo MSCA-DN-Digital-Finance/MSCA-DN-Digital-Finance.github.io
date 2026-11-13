@@ -1,0 +1,1 @@
+Tests approaches to reducing the resources used by artificial intelligence in financial applications. The research evaluates practical and economic effects and connects these experiments with sustainable finance and environmental objectives.

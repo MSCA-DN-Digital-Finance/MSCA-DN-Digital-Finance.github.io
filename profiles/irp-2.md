@@ -1,0 +1,1 @@
+Develops credit assessment methods that combine environmental considerations with relationships among businesses and retail customers. The project studies how network information can improve lending decisions and access to finance in a more sustainable economy.

@@ -1,0 +1,1 @@
+Examines how financial organizations can develop and deploy learning methods when useful data is spread across separate systems. It addresses collection, consistency and preparation of data for later analytical tasks.
