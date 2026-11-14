@@ -270,6 +270,204 @@
       "title": "TSFM causal analysis",
       "irp_numbers": "1",
       "year": ""
+    },
+    {
+      "id": "quantlet-44526513",
+      "title": "MSM",
+      "irp_numbers": "12;13",
+      "year": ""
+    },
+    {
+      "id": "quantlet-47378199",
+      "title": "SFE_class_2015",
+      "irp_numbers": "7;15",
+      "year": ""
+    },
+    {
+      "id": "quantlet-72103182",
+      "title": "SFE",
+      "irp_numbers": "14;15",
+      "year": ""
+    },
+    {
+      "id": "quantlet-75185183",
+      "title": "SPM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-169274763",
+      "title": "DeepLearning",
+      "irp_numbers": "12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-216023169",
+      "title": "DigitalEconomyDecisionAnalytics",
+      "irp_numbers": "8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-797956288",
+      "title": "Metcalfe_Law_and_LPPL_Crypto",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "quantlet-916605523",
+      "title": "Crypto_Currency_Returns",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-916608642",
+      "title": "ETH_Event_Study",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-917134035",
+      "title": "LLM4Forecasting",
+      "irp_numbers": "12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-930337401",
+      "title": "Quantlet_The_Code_Snippet_Knowledge_Platform",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-935946849",
+      "title": "Hierarchical Loan forecasting : A study of End-to-End coherent models",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-943511540",
+      "title": "Decomposing-Stock-Factors",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "quantlet-945637622",
+      "title": "CentralBank2StockMarket",
+      "irp_numbers": "12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-986971520",
+      "title": "WP3_eXplainable_and_Fair_AI",
+      "irp_numbers": "1",
+      "year": ""
+    },
+    {
+      "id": "quantlet-986971924",
+      "title": "Courses",
+      "irp_numbers": "1;11;14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-999203205",
+      "title": "GRU",
+      "irp_numbers": "12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1024892508",
+      "title": "Stable_Distribution",
+      "irp_numbers": "7;12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1032370311",
+      "title": "Proper Scoring Rules",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1062402924",
+      "title": "LLMs-for-BTC-TS",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1086561826",
+      "title": "Hierarchical Time Series : A geometric approach",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1117833331",
+      "title": "Whitepaper_CC_Indices",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1128970967",
+      "title": "A_New_EMD_Approach",
+      "irp_numbers": "8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1134924329",
+      "title": "01 FINDER-LLM",
+      "irp_numbers": "7;12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1137415271",
+      "title": "Onchain Insights",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1183136714",
+      "title": "Transparent-Movie",
+      "irp_numbers": "8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1209192413",
+      "title": "Network_Centrality",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1236511211",
+      "title": "XAI_beyond_SHAP",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1302764333",
+      "title": "MSR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1356048088",
+      "title": "FATED-Polymarket",
+      "irp_numbers": "7;14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1385130579",
+      "title": "STMS_Delta",
+      "irp_numbers": "15",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1399794681",
+      "title": "Electricity-Portfolio-Hedging",
+      "irp_numbers": "8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1445312523",
+      "title": "Polymarked",
+      "irp_numbers": "14",
+      "year": ""
     }
   ]
 }
