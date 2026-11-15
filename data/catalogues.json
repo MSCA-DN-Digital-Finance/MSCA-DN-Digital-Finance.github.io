@@ -261,6 +261,30 @@
       "title": "Cryptocurrencies in a Changing Financial Landscape: A Systematic Review",
       "irp_numbers": "8",
       "year": "2025"
+    },
+    {
+      "id": "zenodo-24198789",
+      "title": "Sustainability of DeFi Carry Trading Using Stablecoins",
+      "irp_numbers": "15",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24199155",
+      "title": "Cryptocurrency Market Analysis: Insights from Metcalfe's Law and Log-Periodic Power Laws",
+      "irp_numbers": "15",
+      "year": "2025"
+    },
+    {
+      "id": "zenodo-24199357",
+      "title": "In the beginning was the Word: LLM-VaR and LLM-ES",
+      "irp_numbers": "15",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24199644",
+      "title": "Recalibrating Tail Risk Forecasts under Temporal Dependence",
+      "irp_numbers": "15",
+      "year": "2026"
     }
   ],
   "working_papers": [],
