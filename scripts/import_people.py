@@ -2,6 +2,7 @@
 """Import public candidate identities and IRP titles; preserve editable summaries."""
 import argparse
 import copy
+import json
 from html.parser import HTMLParser
 from pathlib import Path
 import re
@@ -163,6 +164,25 @@ def enrich_orcids(payload, records):
     return validate(payload)
 
 
+def apply_github_accounts(payload, configuration):
+    """Apply maintained candidate identities after each website refresh."""
+    if configuration.get('schema_version') != 1 or not isinstance(configuration.get('accounts'), dict):
+        raise ValueError('Invalid GitHub account configuration')
+    result = copy.deepcopy(payload)
+    candidates = {p['candidate']['id']: p['candidate'] for p in result['projects'] if p.get('candidate')}
+    seen = set()
+    for candidate_id, login in configuration['accounts'].items():
+        if candidate_id not in candidates:
+            raise ValueError(f'GitHub mapping references an unknown candidate: {candidate_id}')
+        if not isinstance(login, str) or not re.fullmatch(r'[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?', login):
+            raise ValueError('Invalid GitHub username')
+        if login.casefold() in seen:
+            raise ValueError('A GitHub account cannot belong to two candidates')
+        seen.add(login.casefold())
+        candidates[candidate_id]['links']['GitHub'] = 'https://github.com/' + login
+    return validate(result)
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source-dir', type=Path)
@@ -173,11 +193,11 @@ if __name__ == '__main__':
     payload = import_directory(args.source_dir)
     if args.zenodo or args.zenodo_file:
         if args.zenodo_file:
-            import json
             records = json.loads(args.zenodo_file.read_text())['hits']['hits']
         else:
             records = zenodo_records()
         payload = enrich_orcids(payload, records)
+    payload = apply_github_accounts(payload, json.loads((ROOT / 'data/github-accounts.json').read_text(encoding='utf-8')))
     if args.write:
         write_json(ROOT / 'data/people.json', payload)
     print(f'{"Imported" if args.write else "Validated"} {len(payload["projects"])} IRPs')

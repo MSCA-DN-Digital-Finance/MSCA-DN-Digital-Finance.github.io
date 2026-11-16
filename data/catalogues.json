@@ -285,6 +285,48 @@
       "title": "Recalibrating Tail Risk Forecasts under Temporal Dependence",
       "irp_numbers": "15",
       "year": "2026"
+    },
+    {
+      "id": "zenodo-24207688",
+      "title": "BitMood: AI analysis of Bitcoin trends via Facebook emotions",
+      "irp_numbers": "7",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24275447",
+      "title": "Decarbonizing the S&P 500: Sectoral Trade-offs Under Tracking-Error Constraints",
+      "irp_numbers": "17",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24277473",
+      "title": "Causal Analysis for Time Series Foundation Models",
+      "irp_numbers": "1",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24278152",
+      "title": "Reinforcement Learning in Finance: A Systematic Literature Review of Research Frontiers and Methodological Trends",
+      "irp_numbers": "1",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24278253",
+      "title": "A Technical Introduction to Reinforcement Learning",
+      "irp_numbers": "1",
+      "year": "2024"
+    },
+    {
+      "id": "zenodo-24278429",
+      "title": "Causal Analysis of Financial Time Series Pattern Preservation in Time Series Foundation Models",
+      "irp_numbers": "1",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24279624",
+      "title": "A Survey on Current Practices for Time Series Foundation Model Evaluation",
+      "irp_numbers": "1",
+      "year": "2026"
     }
   ],
   "working_papers": [
@@ -315,21 +357,639 @@
       "year": ""
     },
     {
+      "id": "quantlet-40666364",
+      "title": "Psychological-diagnostics",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-41023334",
+      "title": "MANDATORY! Has to be the same as the Quantlet file, without file type ending, e.g. R,py,...",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-41938058",
+      "title": "MVAghadatail",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-41970198",
+      "title": "MVAghdis",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-42019558",
+      "title": "MVAlaplacedis",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-42965573",
+      "title": "New-change-keywords",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-43955924",
+      "title": "tu_dresden_mva2",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-43956435",
+      "title": "FRM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-44175385",
+      "title": "TXT",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-44233179",
+      "title": "DYTEC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-44311342",
+      "title": "MMSTAT",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
       "id": "quantlet-44526513",
       "title": "MSM",
-      "irp_numbers": "12;13",
+      "irp_numbers": "7;12;13",
+      "year": ""
+    },
+    {
+      "id": "quantlet-45055493",
+      "title": "FASTEC-with-Expectiles",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-45181572",
+      "title": "TEDAS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-45191515",
+      "title": "Local_Quantile_Regression",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-45262418",
+      "title": "MTS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-45388566",
+      "title": "TimeVaryingPenalization",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-45472663",
+      "title": "lCARE-BTU-HUB",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-45474884",
+      "title": "SRM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-45916353",
+      "title": "TSARMARJMCMC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-46561592",
+      "title": "XFG3",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-46786260",
+      "title": "SPA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-47180884",
+      "title": "SMS2",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-47378199",
       "title": "SFE_class_2015",
-      "irp_numbers": "7;15",
+      "irp_numbers": "7;12;15",
+      "year": ""
+    },
+    {
+      "id": "quantlet-47557760",
+      "title": "TENET",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-47767632",
+      "title": "ADM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-48020786",
+      "title": "FPCA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-48046806",
+      "title": "Q-Problems",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-49321041",
+      "title": "Time-varying-HAC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-49400804",
+      "title": "COP-Estimation-Misspec",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-49450075",
+      "title": "VolLinkages",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-49894673",
+      "title": "LETF-Moneyness",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-50516798",
+      "title": "XFG3-Temp_old",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-50921042",
+      "title": "Balanced_Quantile_Predictive_Regression",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-50927602",
+      "title": "Disaster",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-50931430",
+      "title": "AdaptivePenalizedMacroFactor",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-51316067",
+      "title": "BCS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-51333278",
+      "title": "collection_unsorted",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-52967261",
+      "title": "vcExp",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-52992943",
+      "title": "plotting",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-53044229",
+      "title": "TEDAS_TAU_SPINE",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-53404514",
+      "title": "MCAR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-53660558",
+      "title": "DataExpo2013_QuachSymanzikForsgren",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-55229485",
+      "title": "TERES_EVT",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-56285065",
+      "title": "VWAP",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-57197065",
+      "title": "NIC_class_2015",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-57871597",
+      "title": "COP",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-57884663",
+      "title": "SFM2-SS16-ToDo",
+      "irp_numbers": "7;11",
+      "year": ""
+    },
+    {
+      "id": "quantlet-58620732",
+      "title": "NAR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-58637545",
+      "title": "XFG-SS16",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-60100071",
+      "title": "SFE_merge_TB",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-60520219",
+      "title": "SMS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-61109190",
+      "title": "MuPoMo",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-61560324",
+      "title": "CMB",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-61627330",
+      "title": "MVA-ToDo",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-62234120",
+      "title": "GeoCopula",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-62234874",
+      "title": "TERES",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-62389004",
+      "title": "japanesetwitter",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-62390846",
+      "title": "ARR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-62563563",
+      "title": "Stable",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-63893594",
+      "title": "EIV_UCS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-63942401",
+      "title": "VFAR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-64133429",
+      "title": "varuca",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-64376489",
+      "title": "EconCrix",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-64382094",
+      "title": "Data-adaptive-PCA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-64488104",
+      "title": "PCA-in-an-Asymmetric-Norm",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-65050875",
+      "title": "MVA-Plotly",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-65050882",
+      "title": "Plotly",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-66073959",
+      "title": "SCRIX",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-66209806",
+      "title": "Face-Recognition",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-66440227",
+      "title": "XFG-ToDo",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-66758369",
+      "title": "MSE-ToDO",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-66947297",
+      "title": "IC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-67054485",
+      "title": "Stochastic_processes",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-67063448",
+      "title": "big_data_analysis",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-67159903",
+      "title": "Git2Q3-Collaboration",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-67160136",
+      "title": "forceNetwork",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-67282948",
+      "title": "DEDA-Bitcoin",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-68293430",
+      "title": "gaplmsbk",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-68386907",
+      "title": "CCS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-68545405",
+      "title": "CCNMGQR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-68712282",
+      "title": "q_awc",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-68772867",
+      "title": "MediaNews",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-68832279",
+      "title": "STF-ToDo",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-68938303",
+      "title": "MSE",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-69391010",
+      "title": "MHE",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-69669354",
+      "title": "FPCA_Electricity",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-69961263",
+      "title": "XFG",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-70689547",
+      "title": "electricitypriceforecasting",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-71072708",
+      "title": "CRC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-71781662",
+      "title": "Topic Modeling",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-72056018",
+      "title": "STF",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-72087351",
+      "title": "D3Genesis",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-72103182",
       "title": "SFE",
-      "irp_numbers": "14;15",
+      "irp_numbers": "7;14;15",
+      "year": ""
+    },
+    {
+      "id": "quantlet-72649752",
+      "title": "Q3D3LSA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-73089560",
+      "title": "SMS-ToDo",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-73212746",
+      "title": "MVA",
+      "irp_numbers": "7;8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-73552495",
+      "title": "sim_estim_ms_skewtt_factorcop",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-73712236",
+      "title": "SIM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-73716202",
+      "title": "SFS-ToDo",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-74078796",
+      "title": "exgb",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-74412637",
+      "title": "pricing_kernels_and_implied_volatility",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-74416623",
+      "title": "SFS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-74666070",
+      "title": "MRS-ToDo",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-74666242",
+      "title": "MSR_R",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-75119657",
+      "title": "choroImmi",
+      "irp_numbers": "7",
       "year": ""
     },
     {
@@ -339,27 +999,2025 @@
       "year": ""
     },
     {
+      "id": "quantlet-75187599",
+      "title": "topic-models",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-75197308",
+      "title": "SFE_class_2016",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-75788342",
+      "title": "BetaBoost",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-77601549",
+      "title": "DDINetwork",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-77754837",
+      "title": "Clustering_Validation_Pipeline",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-78114185",
+      "title": "SDA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-78759529",
+      "title": "M_MEM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-79143449",
+      "title": "Factor_copula_systemic",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-79459522",
+      "title": "LIBRO",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-80841812",
+      "title": "Kelly",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-81022522",
+      "title": "SPL",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-81474448",
+      "title": "nutrition_changes_south_korea",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-82391650",
+      "title": "RGoogleAnalytics",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-82484835",
+      "title": "Q-Kolleg",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-85940040",
+      "title": "SIFI",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-86686114",
+      "title": "INET",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-87306215",
+      "title": "METISNET",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-89086392",
+      "title": "VWAP",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-90247291",
+      "title": "Tukey",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-92599299",
+      "title": "GPLM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-96121720",
+      "title": "Q3",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-97694740",
+      "title": "BCS-1",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-99791032",
+      "title": "DAIIkmeansEM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-100602818",
+      "title": "PGFP",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-103134385",
+      "title": "HFHD",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-104377764",
+      "title": "Regulatory_Complexity_Germany",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-107518200",
+      "title": "DEDA_Class_2017",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-109522548",
+      "title": "forecastSNSTSexamples",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-109568590",
+      "title": "FVC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-110031673",
+      "title": "RegimeSwitching",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-111471540",
+      "title": "HARRV",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-112320120",
+      "title": "Dynamics-of-Tail-Event-Curves",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-113309856",
+      "title": "CRIXdeeplearning",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-114549062",
+      "title": "Cointegration",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-114685969",
+      "title": "CrixToDate",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-114755619",
+      "title": "SFE_class_2017",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-116108354",
+      "title": "SVR_GARCH_KDE",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-116323300",
+      "title": "CoVaR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-116323447",
+      "title": "FCVAR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-116519257",
+      "title": "DMF",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-116605314",
+      "title": "pdf_to_text",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-117267170",
+      "title": "OI_Crypto",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-120000400",
+      "title": "CascadeLDA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-120588616",
+      "title": "SRMC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-122175989",
+      "title": "SPL_class_WS1617",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-122178781",
+      "title": "SPL_class_SS17",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-125480582",
+      "title": "Ms_Th_Predict_Poll_From_Emotions",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-126687846",
+      "title": "Improving_Crime_Counts",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-131482031",
+      "title": "SVCJ_crix",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-131855988",
+      "title": "DEDA_Class_SS2018",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-134569122",
+      "title": "PAM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-134701217",
+      "title": "VCRIX",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-135179767",
+      "title": "elephant_wiggle_trunk",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-137164538",
+      "title": "CCP",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-137217992",
+      "title": "UCC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-137430501",
+      "title": "NetworkCASC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-137900657",
+      "title": "LASSO_Time_Space",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-138053303",
+      "title": "Spatial_Functional_PCA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-139133594",
+      "title": "RiskProfilePortfolio",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-144871481",
+      "title": "GrangerCausalityTestInQuantile_Simulation",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-145806266",
+      "title": "DataGenerationForCausalInference",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-145876612",
+      "title": "CRIX_tedas",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-149313295",
+      "title": "Quantlet_Extraction_Evaluation_Visualisation",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-151451691",
+      "title": "Localizing_Multivariate_CAViaR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-152114135",
+      "title": "NNQR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-152994774",
+      "title": "MnistDeepLearning",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-153259064",
+      "title": "DEDA_SVM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-153431107",
+      "title": "SVCJOptionApp",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-154656070",
+      "title": "BLEM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-155198865",
+      "title": "DistributionalForecasts",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-155371351",
+      "title": "RINFIN",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-156219323",
+      "title": "GMMvb",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-156863861",
+      "title": "DEDA_Class_2018_StGallen",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-160039898",
+      "title": "ICA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-160724310",
+      "title": "TalesSentimentTails",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-162054826",
+      "title": "DEDA_RandForest",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-163330272",
+      "title": "quantile_coherency_replication_pack",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-164232697",
+      "title": "PCA-SVM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-164324416",
+      "title": "USC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-164903467",
+      "title": "GMMcluster",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-165428609",
+      "title": "SFM_Class_2018_Merton",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-165515973",
+      "title": "PP_CPP_Simulation",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-165516485",
+      "title": "HClustering",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-165662152",
+      "title": "opp_comp_abalone_analysis",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-165663533",
+      "title": "RVOL",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-165715946",
+      "title": "SFEbitreeKO",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-165941659",
+      "title": "SFM_Class_2018_smart_contracts",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-166378495",
+      "title": "QNN",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-169069574",
+      "title": "DEDA_Class_2018WS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-169079140",
+      "title": "LDA-DTM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-169222675",
+      "title": "SCG_Scagnostics",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
       "id": "quantlet-169274763",
       "title": "DeepLearning",
-      "irp_numbers": "12",
+      "irp_numbers": "7;12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-169750511",
+      "title": "VIX",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-170137402",
+      "title": "ssmmatlab",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-170339501",
+      "title": "awcd",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-172572593",
+      "title": "DT_AlphaShape",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-172696416",
+      "title": "ZHAW_FX",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-173587845",
+      "title": "LMVCAViaR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-177018466",
+      "title": "Genus_proximum_cryptos",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-177751146",
+      "title": "RCVJ_Forecasting",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-178192806",
+      "title": "UYCTReur",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-178404338",
+      "title": "Stat_fin_markets",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-178885830",
+      "title": "SIEVE_application",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-180099444",
+      "title": "Quantlet_Grading",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-181244381",
+      "title": "ONSM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-184027712",
+      "title": "XFG_2019SS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-184223996",
+      "title": "SL_Klagenfurt_2019",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-184729718",
+      "title": "DCA_comparison",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-186388633",
+      "title": "thesis-reinforcement-learning",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-192404617",
+      "title": "SoNIC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-192713913",
+      "title": "PythonTsa_call_functions",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-192925494",
+      "title": "MailProcessingTime",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-193208579",
+      "title": "SFM_Merton",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-196589046",
+      "title": "MLvsGARCH",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-197355473",
+      "title": "CCID",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-197542223",
+      "title": "DEDA_Class_2019SS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-197781624",
+      "title": "NextUnicorn",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-199050945",
+      "title": "CRIX_cointegration",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-200213152",
+      "title": "HedgingCrix_models_paths",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-203039891",
+      "title": "SVCJ_MC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-203040129",
+      "title": "SVCJ_MC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-206962448",
+      "title": "EMAIS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-207268917",
+      "title": "DEDA_class2019_SYSU",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-211495120",
+      "title": "CGBRP",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-213012863",
+      "title": "CryptoDynamics",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-214193829",
+      "title": "UTSE",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-215566136",
+      "title": "DEDA_Class_2019WS",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-216023169",
       "title": "DigitalEconomyDecisionAnalytics",
-      "irp_numbers": "8",
+      "irp_numbers": "7;8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-221264506",
+      "title": "BERT",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-221748412",
+      "title": "SDA_2019_St_Gallen",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-222439320",
+      "title": "Tenure_Satisfaction",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-222441087",
+      "title": "DR_GATES",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-224156655",
+      "title": "simulations",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-224187323",
+      "title": "CPAoutsample",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-224320144",
+      "title": "CPAinsample",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-225590174",
+      "title": "SFM_Class_2019WS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-227231837",
+      "title": "DEDA_mergers_acquisitions_energy",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-231370908",
+      "title": "InterSwap",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-232123971",
+      "title": "Regulatory-risk-cryptocurrency",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-234080584",
+      "title": "Scaling_Sierpinski",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-235582902",
+      "title": "TVP-VAR-Estimation-Workshop",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-236455813",
+      "title": "SFE_class_2019",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-236710403",
+      "title": "SC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-236765845",
+      "title": "LLE",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-236979299",
+      "title": "RND_calibration",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-245577865",
+      "title": "LOBDeepPP",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-247013707",
+      "title": "Financial Report Analysis BERT W2V GLOVE",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-252700049",
+      "title": "SL_Klagenfurt_2020",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-253512480",
+      "title": "CoinGeckoCrawler",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-254047082",
+      "title": "AdaBoost_P2PL",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-255910893",
+      "title": "Financial Report Analysis BERT W2V GLOVE",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-257216453",
+      "title": "DEDA_class_2020SS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-261176687",
+      "title": "GANTimeSeries",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-263481771",
+      "title": "plot_crypto_ts",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-266719643",
+      "title": "pHacking",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-268621058",
+      "title": "AOBDL_code",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-274434329",
+      "title": "Alpha_shapes",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-274519310",
+      "title": "loadcrix",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-274629271",
+      "title": "KEC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-275692539",
+      "title": "alphashape_animation",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-275823989",
+      "title": "GRF",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-276323371",
+      "title": "SCC_wo_salt_factory",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-279099612",
+      "title": "loadbtc",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-279660909",
+      "title": "CSC_Dapps",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-281927536",
+      "title": "DynamicNets.jl",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-281927645",
+      "title": "waveletcojumps",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-281927682",
+      "title": "sam2N",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-281927694",
+      "title": "sam",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-281927790",
+      "title": "frequencyConnectedness",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-281927869",
+      "title": "quantspec",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-281928614",
+      "title": "PQRreturns",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-283158174",
+      "title": "sinus_animation",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-292844538",
+      "title": "CRIXcoin",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-294424555",
+      "title": "DynamicNets",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-300564361",
+      "title": "statsintro_python",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-301479194",
+      "title": "data_driven_controlling",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-303192778",
+      "title": "Automated-Cryptocurrency-Portfolios",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-304555886",
+      "title": "SDA_2020_Giessen",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-307447620",
+      "title": "SDA_2020_NCTU",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-311661335",
+      "title": "Spatial_Analysis",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-317925012",
+      "title": "JumpDetectR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-319680019",
+      "title": "SDA_2020_St_Gallen",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-328627762",
+      "title": "Blockchain_mechanism",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-328978552",
+      "title": "SurrogateModel",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-329322124",
+      "title": "BitcoinPricingKernels",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-331048577",
+      "title": "CardSpentplot",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-332789946",
+      "title": "Anomaly-Detection",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-333457459",
+      "title": "TENET portfolio",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-337086988",
+      "title": "FRM-EM-paper",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-337784147",
+      "title": "Pink_Noise",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-339092291",
+      "title": "Meta_learner-for-Causal-ML",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-339567616",
+      "title": "SVCJrw",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-342274003",
+      "title": "CBR-FRD",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-349029034",
+      "title": "MANDATORY! Has to be the same as the Quantlet file, without file type ending, e.g. R,py,...",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-357335921",
+      "title": "FRM_Expectile",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-357544118",
+      "title": "UMAP_sim_ts",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-357820932",
+      "title": "MANDATORY! Has to be the same as the Quantlet file, without file type ending, e.g. R,py,...",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-357828076",
+      "title": "KF_modelres",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-361889577",
+      "title": "MANDATORY! Has to be the same as the Quantlet file, without file type ending, e.g. R,py,...",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-361986867",
+      "title": "UMAP",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-366487035",
+      "title": "localpoly",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-368161941",
+      "title": "pricing_kernel_uniform_confidence_bands",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-368321458",
+      "title": "PAC_CV_GCV",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-375022870",
+      "title": "evaluation_indices",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-378217673",
+      "title": "CRIXForecastApp",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-382352134",
+      "title": "Projected_IFE",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-382380004",
+      "title": "1d_GAN",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-384198433",
+      "title": "Metis-Shapley",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-389566312",
+      "title": "Outcome-adaptive-Random-Forest",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-389605573",
+      "title": "Supervised-Randomization",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-390709178",
+      "title": "BitcoinOptionTrading",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-394901414",
+      "title": "FRM_Quantlet_China",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-404107059",
+      "title": "RobustM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-407082353",
+      "title": "VAR_Example",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-407113664",
+      "title": "VAR_Metis",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-407605607",
+      "title": "NetworksofNews_CrossSectionalReturns",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-410942815",
+      "title": "GAN_TS_stacking",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-412400368",
+      "title": "statsintro-python-2e",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-416670582",
+      "title": "Cryptocurrencies_and_Stablecoins",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-418841483",
+      "title": "DEDA_Class_2021WS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-419355439",
+      "title": "EmbeddingPortfolio",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-424900850",
+      "title": "SDA_2021_St_Gallen",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-425223579",
+      "title": "COVID_Risk_Narratives",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-425456844",
+      "title": "indices_ccVStrad",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-425867216",
+      "title": "Hedging Effectiveness Plots",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-426235815",
+      "title": "Portfolio_Diversification_Risk_Clustering",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-426488498",
+      "title": "hedging_cc",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-430714826",
+      "title": "EPF",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-434172419",
+      "title": "CBR-BK",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-437015326",
+      "title": "Quantlets as NFT",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-440091834",
+      "title": "SDA_2021_HeartFailure",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-441176255",
+      "title": "ChristmasTree",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-449281719",
+      "title": "DEDA_class_WS21",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-449475409",
+      "title": "pyTSA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-458788019",
+      "title": "CP2P",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-461561018",
+      "title": "SFM_Rough_Rice_Futures_Price",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-461797864",
+      "title": "SGX_reports",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-464584766",
+      "title": "Word-cloud-Search-engine-optimisation",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-466834185",
+      "title": "Metis_GMM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-482677547",
+      "title": "Metis_MST",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-484382695",
+      "title": "py-RobustM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-496670825",
+      "title": "Encode-the-Qode",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-498144120",
+      "title": "Markowitz Portfolio",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-501144850",
+      "title": "p2pInterestRate",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-501183395",
+      "title": "network_BTC_exchanges",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-512883447",
+      "title": "CRIX_ETF",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-515624687",
+      "title": "SMLSM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-518043434",
+      "title": "UStatistics",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-518451656",
+      "title": "DEIS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-520182559",
+      "title": "BitcoinOptions",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-530231275",
+      "title": "Solidity-Lottery",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-532534735",
+      "title": "DEDA_2022_NYCU",
+      "irp_numbers": "7;8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-533352639",
+      "title": "Deribit_inverse_BTC_options",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-536086066",
+      "title": "hf.econometrics",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-537004031",
+      "title": "Network-portfolio",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-546302004",
+      "title": "fit_IV_DEJD",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-546305714",
+      "title": "IV_implied_fair_premium_curves",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-553474527",
+      "title": "Quantinar-Staking-Simulation",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-554784286",
+      "title": "Shapley_Smoothing",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-556782179",
+      "title": "DAI_digital_art_index",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-561383279",
+      "title": "SDA_2022_St_Gallen",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-561932112",
+      "title": "Deribit_inverse_BTC_options_hedging",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-571531576",
+      "title": "quantinar-keycloak-theme",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-581252301",
+      "title": "QuantinarRep",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-581572152",
+      "title": "Hedging-Cryptos-with-Bitcoin-Futures",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-595051328",
+      "title": "Pricing_kernel_crypto",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-596885422",
+      "title": "alpha_t-RIM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-600720999",
+      "title": "CACrypto",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-610220706",
+      "title": "Multifractal_Models_in_Finance",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-613246036",
+      "title": "HAND",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-625596372",
+      "title": "PyIntro",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-628668606",
+      "title": "DEDA_class_SoSe2023",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-628875680",
+      "title": "Robust_M_CC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-631856402",
+      "title": "CryptoVolumeForecasting",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-633061739",
+      "title": "SRMforDA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-649807049",
+      "title": "Spectral_Risk_Measure_SRM_METIS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-657425145",
+      "title": "MPF-Electricity",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-667093887",
+      "title": "Ethereum-Energy-Consumption",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-672829537",
+      "title": "Metcalfes-Law-and-Cryptocurrencies",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-690886160",
+      "title": "osppaa_2021",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-690886409",
+      "title": "csaamoe_2021",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-690886625",
+      "title": "msic-dasoq_2019",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-690886771",
+      "title": "catvom_2021",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-694006587",
+      "title": "Math-Stat-Chap01-prob",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-694708662",
+      "title": "FRM_RO",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-698277402",
+      "title": "VizTech",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-700485078",
+      "title": "HawkesProcesses",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-701211183",
+      "title": "Stochvolmodels",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-702184503",
+      "title": "TDFA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-705321002",
+      "title": "IDA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-706600660",
+      "title": "Chinese-Word-Cloud",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-714303146",
+      "title": "PAV-Pool-Adjacent-Violator",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-726318173",
+      "title": "FRM-Taiwan",
+      "irp_numbers": "7;8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-726542919",
+      "title": "Emoji-Embedding-For-Finance",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-730342092",
+      "title": "CSBD_Project",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-731616948",
+      "title": "SDA_2023_Rental_Prices",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-732350588",
+      "title": "20231215-Moc-Far-Stat-Arbitrage-LSTM-US-Tech",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-735325225",
+      "title": "TY_TreasuryYield",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-739771817",
+      "title": "Covid-RO",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-741013325",
+      "title": "Data-Science-math-less-Digital-Society",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-748126871",
+      "title": "np_var_mis",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-757483074",
+      "title": "FRM_Quantlet_Crypto",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-760072923",
+      "title": "Industrial-Picture-Classification-via-SVM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-761094144",
+      "title": "HJP",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-761340884",
+      "title": "QReg_engel_curve",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-766855387",
+      "title": "BoostExamples",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-770175417",
+      "title": "Recommendation-System",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-777874649",
+      "title": "Cross-Section-and-Panel-Data-H",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-780111502",
+      "title": "BigDataIndex",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-782280955",
+      "title": "EM_Algorithm",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-785190324",
+      "title": "Rough Volatility with Correlated Jumps",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-791353845",
+      "title": "DEDA_2024_NYCU",
+      "irp_numbers": "7;8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-795096465",
+      "title": "PricingKernelBspline",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-797956288",
       "title": "Metcalfe_Law_and_LPPL_Crypto",
-      "irp_numbers": "15",
+      "irp_numbers": "7;15",
+      "year": ""
+    },
+    {
+      "id": "quantlet-800402974",
+      "title": "LLM-Examples",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-803350354",
+      "title": "CCIndexRisk",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-807269609",
+      "title": "Herding",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-807751280",
+      "title": "pylpa",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-815545050",
+      "title": "DEDA_word_embeddings_BERT_examples",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-817311351",
+      "title": "sent-vol-network",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-817315982",
+      "title": "EM-App-CPI",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-830969718",
+      "title": "DigitalFinance",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-836615288",
+      "title": "DEDA_class_SoSe2024",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-839066990",
+      "title": "CBECopBTCETH",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-845572990",
+      "title": "2024-XAI-Intro",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-849665729",
+      "title": "quantinar_recommender",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-861041063",
+      "title": "Bayesian_Statistics",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-865265169",
+      "title": "BitMood",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-865474945",
+      "title": "Bootstrap",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-874123064",
+      "title": "PricingKernel_NonMonotone",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-877336885",
+      "title": "Meta_Learning_Monitoring_Source_Code",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-883146635",
+      "title": "Energy Price Modelling A comparative Evaluation of Four Generations of Forecasting Methods",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-890417364",
+      "title": "DEDA Course - Group 3 Homework: Capturing the Baijiu(白酒) Industry Landscape",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-891265374",
+      "title": "DEDA_Final_Project_DEDA_Fudan_Group2",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-892538685",
+      "title": "HashRecommendation",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-916601632",
+      "title": "ATSSB-Applied-Time-Series-Solutions-Book",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-916605523",
       "title": "Crypto_Currency_Returns",
-      "irp_numbers": "7",
+      "irp_numbers": "7;8",
       "year": ""
     },
     {
@@ -371,7 +3029,31 @@
     {
       "id": "quantlet-917134035",
       "title": "LLM4Forecasting",
-      "irp_numbers": "12",
+      "irp_numbers": "7;12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-917542522",
+      "title": "LLM-Risk",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-918080758",
+      "title": "timeseries",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-918134712",
+      "title": "02_analyses_parallel",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-926381245",
+      "title": "SOM",
+      "irp_numbers": "7",
       "year": ""
     },
     {
@@ -381,39 +3063,123 @@
       "year": ""
     },
     {
+      "id": "quantlet-933570741",
+      "title": "Dogecoin and Speculative Bubbles: A Study Using LPPL and Sentiment Analysis",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-933723834",
+      "title": "crypto_loan_plots",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-935938063",
+      "title": "Volatility Jumps and Pricing Kernel Features: A Study Comparing the Classical and CDI Estimation Method",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
       "id": "quantlet-935946849",
       "title": "Hierarchical Loan forecasting : A study of End-to-End coherent models",
-      "irp_numbers": "14",
+      "irp_numbers": "7;14",
       "year": ""
     },
     {
       "id": "quantlet-943511540",
       "title": "Decomposing-Stock-Factors",
-      "irp_numbers": "15",
+      "irp_numbers": "7;15",
       "year": ""
     },
     {
       "id": "quantlet-945637622",
       "title": "CentralBank2StockMarket",
-      "irp_numbers": "12",
+      "irp_numbers": "7;12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-948895146",
+      "title": "Energy_Stock_Market",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-952389423",
+      "title": "sent-spillover",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-964602428",
+      "title": "Fraud Detection",
+      "irp_numbers": "7;8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-966018082",
+      "title": "AIAdoptionEU",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-968143137",
+      "title": "Econometrics_R",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-971157845",
+      "title": "RO_Electricity_Forecasting",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-986971520",
       "title": "WP3_eXplainable_and_Fair_AI",
-      "irp_numbers": "1",
+      "irp_numbers": "1;12;17",
       "year": ""
     },
     {
       "id": "quantlet-986971924",
       "title": "Courses",
-      "irp_numbers": "1;11;14",
+      "irp_numbers": "1;7;8;9;11;12;13;14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-987116828",
+      "title": "Marginal Effect for ordinal data",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-999203205",
       "title": "GRU",
-      "irp_numbers": "12",
+      "irp_numbers": "7;12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1001501295",
+      "title": "QNAR_RS",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1005501725",
+      "title": "Explainable AI for Electricity Price Anomaly Detection",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1015558937",
+      "title": "Multi-objective Explainable AI for Romanian Electricity Price Analysis",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1016737398",
+      "title": "DEDA_2025_CUEB",
+      "irp_numbers": "7;8",
       "year": ""
     },
     {
@@ -423,21 +3189,123 @@
       "year": ""
     },
     {
+      "id": "quantlet-1027639523",
+      "title": "SDexamples",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
       "id": "quantlet-1032370311",
       "title": "Proper Scoring Rules",
-      "irp_numbers": "14",
+      "irp_numbers": "7;14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1044071861",
+      "title": "Quantile_Treatment",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1044307264",
+      "title": "QuantLet_NLP_Introduction",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1046788922",
+      "title": "Empirical-Mode-Decomposition",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1058536825",
+      "title": "AR_sim_p",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1058569028",
+      "title": "LPA_AR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1058668981",
+      "title": "SHAP_AR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1059306996",
+      "title": "FRM_Stable_Coins",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1061784791",
+      "title": "LPA_LSTM",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-1062402924",
       "title": "LLMs-for-BTC-TS",
-      "irp_numbers": "14",
+      "irp_numbers": "7;14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1062666007",
+      "title": "SHAP_LSTM",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1067344421",
+      "title": "Crypto_Zombies",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1073488664",
+      "title": "2025_HTW_ESG_Portfolio_Optimization",
+      "irp_numbers": "7;8;12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1073566253",
+      "title": "AdaptiveWIN-SHAP",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1075346124",
+      "title": "BCN-Seminar",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-1086561826",
       "title": "Hierarchical Time Series : A geometric approach",
-      "irp_numbers": "14",
+      "irp_numbers": "7;14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1094121877",
+      "title": "Insider trading Financial Forensics",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1095428411",
+      "title": "CARDI",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1104384406",
+      "title": "neural-networks-introduction",
+      "irp_numbers": "7",
       "year": ""
     },
     {
@@ -449,31 +3317,109 @@
     {
       "id": "quantlet-1128970967",
       "title": "A_New_EMD_Approach",
-      "irp_numbers": "8",
+      "irp_numbers": "7;8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1130319924",
+      "title": "OnlineMonitoring_FunctionalTS_ARSN",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-1134924329",
       "title": "01 FINDER-LLM",
-      "irp_numbers": "7;12",
+      "irp_numbers": "7;8;12",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1135788612",
+      "title": "fulvio-PhD",
+      "irp_numbers": "13",
       "year": ""
     },
     {
       "id": "quantlet-1137415271",
       "title": "Onchain Insights",
-      "irp_numbers": "14",
+      "irp_numbers": "7;8;14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1150445396",
+      "title": "EMQA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1154547100",
+      "title": "TSA",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1164747230",
+      "title": "Energy Demand ETH",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1165945262",
+      "title": "A counterfactual analysis of Romania’s 2024 energy crisis",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1166662407",
+      "title": "Multi-horizon explainability in Romania's energy price forecasting",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1166669502",
+      "title": "Explainable AI-based early warning system for electricity price spikes: evidence from the Romanian market",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1177753959",
+      "title": "BCN-XMU-course2026",
+      "irp_numbers": "7",
       "year": ""
     },
     {
       "id": "quantlet-1183136714",
       "title": "Transparent-Movie",
-      "irp_numbers": "8",
+      "irp_numbers": "7;8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1190354133",
+      "title": "NN_DL",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1198392504",
+      "title": "AI_Listening2CB",
+      "irp_numbers": "12",
       "year": ""
     },
     {
       "id": "quantlet-1209192413",
       "title": "Network_Centrality",
-      "irp_numbers": "14",
+      "irp_numbers": "7;14",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1211315989",
+      "title": "TSFM_VaR_CEE",
+      "irp_numbers": "7;8",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1217811295",
+      "title": "DEDA-HUB-Quantlets",
+      "irp_numbers": "7",
       "year": ""
     },
     {
@@ -483,8 +3429,80 @@
       "year": ""
     },
     {
+      "id": "quantlet-1236731445",
+      "title": "Spline EMD vs. IRMF Test",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1241287755",
+      "title": "IDA Team",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1253521988",
+      "title": "DEDAcryptoBasket",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1255768826",
+      "title": "GNN_XAI_Stability",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1275184857",
+      "title": "DEDAcryptoBasket",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1280525722",
+      "title": "IDA_FRMspillover",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1280526764",
+      "title": "IDA_localising",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1294996113",
+      "title": "USGDPGrowth",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
       "id": "quantlet-1302764333",
       "title": "MSR",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1310988393",
+      "title": "SYNCRISK",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1322948715",
+      "title": "CBDC",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1330067065",
+      "title": "Redispatch_ML_Forecasting",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
+      "id": "quantlet-1333127483",
+      "title": "IRMF-Intrinsic-Robust-Multiscale-Filtering",
       "irp_numbers": "7",
       "year": ""
     },
@@ -497,7 +3515,7 @@
     {
       "id": "quantlet-1385130579",
       "title": "STMS_Delta",
-      "irp_numbers": "15",
+      "irp_numbers": "7;15",
       "year": ""
     },
     {
@@ -507,8 +3525,26 @@
       "year": ""
     },
     {
+      "id": "quantlet-1420811198",
+      "title": "AlphaLuck",
+      "irp_numbers": "7",
+      "year": ""
+    },
+    {
       "id": "quantlet-1445312523",
       "title": "Polymarked",
+      "irp_numbers": "14",
+      "year": ""
+    },
+    {
+      "id": "zenodo-17232553",
+      "title": "Code and Data for Reinforcement Learning in Finance: From Current Practice to Standards and Frameworks",
+      "irp_numbers": "1",
+      "year": ""
+    },
+    {
+      "id": "zenodo-18338843",
+      "title": "MSCA-DN-Digital-Finance/stablecoin-onchain-data: DeFi hourly datasets data-2026-02-02",
       "irp_numbers": "14",
       "year": ""
     }

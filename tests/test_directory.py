@@ -76,6 +76,28 @@ class IdentityTests(unittest.TestCase):
 
 
 class ImportTests(unittest.TestCase):
+    def test_github_mapping_survives_source_refresh_without_changing_other_links(self):
+        original = payload()
+        config = {'schema_version': 1, 'accounts': {'researcher-one': 'Some-Account'}}
+        refreshed = import_people.apply_github_accounts(original, config)
+        self.assertEqual(refreshed['projects'][1]['candidate']['links']['GitHub'], 'https://github.com/Some-Account')
+        self.assertIn('ORCID', refreshed['projects'][1]['candidate']['links'])
+        self.assertIsNone(refreshed['projects'][0]['candidate'])
+        self.assertNotIn('GitHub', original['projects'][1]['candidate']['links'])
+        # A fresh scrape has no GitHub link; the maintained map restores it.
+        self.assertEqual(import_people.apply_github_accounts(payload(), config), refreshed)
+
+    def test_github_mapping_rejects_unknown_candidates_bad_handles_and_duplicate_accounts(self):
+        for accounts in [{'unknown': 'user'}, {'researcher-one': '@user'}, {'researcher-one': 'foo/bar'},
+                         {'researcher-one': '-user'}, {'researcher-one': 'user-'}]:
+            with self.subTest(accounts=accounts), self.assertRaises(ValueError):
+                import_people.apply_github_accounts(payload(), {'schema_version': 1, 'accounts': accounts})
+        data = payload()
+        other = project('15'); other['candidate'].update(id='researcher-two', orcid='')
+        data['projects'].append(other)
+        with self.assertRaises(ValueError):
+            import_people.apply_github_accounts(data, {'schema_version': 1, 'accounts': {'researcher-one': 'User', 'researcher-two': 'USER'}})
+
     def test_source_cards_profiles_vacancies_affiliations_and_public_links(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
