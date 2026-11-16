@@ -287,7 +287,26 @@
       "year": "2026"
     }
   ],
-  "working_papers": [],
+  "working_papers": [
+    {
+      "id": "polymarked",
+      "title": "Polymarked: Imporving physical density estimation with prediction markets",
+      "irp_numbers": "14;15;8;7;12",
+      "year": ""
+    },
+    {
+      "id": "hierarchical-morphology-search",
+      "title": "Hierarchical Morphology Search",
+      "irp_numbers": "14",
+      "year": "2026"
+    },
+    {
+      "id": "scaling-tabular-foundation-models-for-credit-scoring",
+      "title": "Scaling Tabular Foundation Models for Credit Scoring",
+      "irp_numbers": "14",
+      "year": "2026"
+    }
+  ],
   "software": [
     {
       "id": "tsfm-causal-analysis",
