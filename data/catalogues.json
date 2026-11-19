@@ -347,6 +347,18 @@
       "title": "Scaling Tabular Foundation Models for Credit Scoring",
       "irp_numbers": "14",
       "year": "2026"
+    },
+    {
+      "id": "resolving-the-duplicate-feature-paradox-with-reshap-a-redundancy-weighted-generalization-of-shapley-attribution",
+      "title": "Resolving the Duplicate-Feature Paradox with ReSHAP: A Redundancy-Weighted Generalization of Shapley Attribution",
+      "irp_numbers": "16",
+      "year": "2026"
+    },
+    {
+      "id": "applications-of-interpretable-and-explainable-machine-learning-in-insurance-pricing",
+      "title": "Applications of Interpretable and Explainable Machine Learning in Insurance Pricing",
+      "irp_numbers": "16",
+      "year": "2026"
     }
   ],
   "software": [
