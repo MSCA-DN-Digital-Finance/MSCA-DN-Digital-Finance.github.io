@@ -329,6 +329,18 @@
       "year": "2026"
     },
     {
+      "id": "zenodo-24365790",
+      "title": "Sustainability-Related Risks in Credit Risk Modeling: Evidence, Limitations, and the Role of Machine Learning",
+      "irp_numbers": "2",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24365874",
+      "title": "Integrating Physical Climate Hazards into Real Estate Collateral Valuation; A Stochastic Multi-Hazard Framework",
+      "irp_numbers": "2",
+      "year": "2026"
+    },
+    {
       "id": "zenodo-24366569",
       "title": "Do Established Cryptocurrency Findings Survive Extended Data?",
       "irp_numbers": "7;8",
@@ -339,6 +351,42 @@
       "title": "Financial Risk Meters in Taiwan's High-Cap Sectors",
       "irp_numbers": "8",
       "year": "2025"
+    },
+    {
+      "id": "zenodo-24373946",
+      "title": "Racing the News: Nanosecond Market Efficiency at Eurex and CME",
+      "irp_numbers": "12",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24374718",
+      "title": "AI Listening to Central Banks: From Words to Markets and Macroeconomic Outcomes",
+      "irp_numbers": "12",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24374970",
+      "title": "LLM-Driven Stock Prediction: Capturing Market Trends with LLaMA",
+      "irp_numbers": "12",
+      "year": "2025"
+    },
+    {
+      "id": "zenodo-24376861",
+      "title": "Quantlet: the code snippet knowledge platform",
+      "irp_numbers": "7",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24377097",
+      "title": "ESG-Aware Asset Selection and Portfolio Optimization: A Comparative Study of Multi-Criteria Decision-Making Methods",
+      "irp_numbers": "7;8;12",
+      "year": "2026"
+    },
+    {
+      "id": "zenodo-24377402",
+      "title": "Do Investors Buy Innovation: Market Responses to Ethereum Development Milestones",
+      "irp_numbers": "7",
+      "year": "2026"
     }
   ],
   "working_papers": [
